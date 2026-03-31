@@ -23,7 +23,7 @@ import one.digitalinnovation.gof.service.ClienteService;
  */
 @RestController
 @RequestMapping("clientes")
-public class ClienteRestController {
+public class ClienteRestControllerr {
 
 	@Autowired
 	private ClienteService clienteService;
